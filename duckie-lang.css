@@ -1,0 +1,33 @@
+.duckie-lang-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("public/playground_assets/b70a42098e9f91fde60efffae892a026-500h.jpg");
+}
+.duckie-lang-text {
+  top: 112px;
+  left: 405px;
+  color: var(--dl-color-gray-500);
+  position: absolute;
+  font-size: 64px;
+}
+.duckie-lang-text1 {
+  top: 242px;
+  left: 121px;
+  position: absolute;
+  font-size: 28px;
+  font-weight: 600;
+}
+.duckie-lang-text2 {
+  top: 343px;
+  left: 158px;
+  position: absolute;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+}

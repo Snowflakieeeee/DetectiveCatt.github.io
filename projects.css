@@ -1,0 +1,140 @@
+.projects-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #2F3349;
+}
+.projects-link {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  align-self: flex-start;
+  font-weight: 500;
+  text-decoration: none;
+}
+.projects-text {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text01 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text02 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text03 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text04 {
+  font-style: normal;
+}
+.projects-link1 {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  align-self: flex-start;
+  font-weight: 500;
+  text-decoration: none;
+}
+.projects-text05 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text06 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text07 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text08 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text09 {
+  font-style: normal;
+}
+.projects-link2 {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  align-self: flex-start;
+  font-weight: 500;
+  text-decoration: none;
+}
+.projects-text10 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text11 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text12 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text13 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text14 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text15 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text16 {
+  font-style: normal;
+}
+.projects-navlink {
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  align-self: flex-start;
+  font-weight: 500;
+  text-decoration: none;
+}
+.projects-text17 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text18 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text19 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text20 {
+  color: #a887b0;
+  font-size: 32px;
+  font-weight: 600;
+}
+.projects-text21 {
+  font-style: normal;
+}
